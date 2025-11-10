@@ -5,19 +5,19 @@ h1{
  color: #5e7892; 
 font-family: "Playfair Display", serif;
 font-optical-sizing: auto;
-font-weight:<weight>;
-font-style: normal;
+font-weight:weight;
+font-style:normal
 }
 h2{
     color: #a7b7c6;
 font-family: "Playfair Display", serif;
 font-optical-sizing: auto;
-font-weight:<weight>;
-font-style:normal;
+font-weight:weight;
+font-style:normal
 }
 p{
 font-family: "Playfair Display", serif;
 font-optical-sizing: auto;
-font-weight:<weight>;
-font-style:normal;
+font-weight:weight;
+font-style:normal
 }
